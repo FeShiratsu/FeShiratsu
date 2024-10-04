@@ -1,7 +1,7 @@
 # Hi! Im Felicia and this is my profile.
 
 I'm 23 years old and i study Programing regularly, most of the times adding here most of my study activities!
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczU4azZuajN6bDJsY3VodzV6NWlkZHpiYWM1YWR1dGI3Ym0xdWQ4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yFQ0ywscgobJK/giphy.gif"  style="position:relative; left:50%;">
+<br><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczU4azZuajN6bDJsY3VodzV6NWlkZHpiYWM1YWR1dGI3Ym0xdWQ4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yFQ0ywscgobJK/giphy.gif"  style="position:relative; left:50%;">
 
 <h1>Knowledge Info</h1>
 - 🌱 Learning NextJS<br>
